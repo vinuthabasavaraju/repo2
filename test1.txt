@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 1AD6-483B
+
+ Directory of C:\Users\vinutha.basavaraju\Desktop\GitProject
+
+08/01/2019  09:58 PM    <DIR>          .
+08/01/2019  09:58 PM    <DIR>          ..
+08/01/2019  09:58 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  71,507,439,616 bytes free
